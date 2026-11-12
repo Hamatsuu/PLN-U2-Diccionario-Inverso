@@ -1,0 +1,34 @@
+{
+  "nombre": "Baseline docente · Cercanía reducida",
+  "algoritmo": "docente_cercania",
+  "criterio": "Mayor Hit@5 entre las variantes con resultados publicados en el notebook de clase; sin seleccionar con otros datasets.",
+  "costo": "100 - porcentaje_asociacion; extensión a fuerza común: 100*(1-fuerza)",
+  "orientacion": "no dirigido",
+  "subgrafo": "semillas y vecinos a un salto, inducido",
+  "ranking": "orden descendente; desempate por orden de inserción; top99 antes de excluir semillas y puntuaciones no positivas",
+  "normalizacion": "string.punctuation; stopwords NLTK españolas antes de lematizar, sensibles a mayúsculas; es_core_news_sm por token; minúsculas al final; sin unir expresiones ni quitar duplicados",
+  "modelo_spacy": "es_core_news_sm",
+  "version_spacy_modelo": "3.8.0",
+  "n": 276,
+  "publicados": {
+    "hit@1": 0.2210144927536232,
+    "hit@3": 0.427536231884058,
+    "hit@5": 0.5181159420289855
+  },
+  "aciertos_publicados": {
+    "hit@1": 61,
+    "hit@3": 118,
+    "hit@5": 143
+  },
+  "fuente": {
+    "notebook": "datos_fuente/clase_nap/diccionario inverso.ipynb",
+    "sha256": "dd9f7df90f7dc6b3cfe770472120e60616ec5d92bb1a639c9571c15af317006c",
+    "celda": 28
+  },
+  "recursos": {
+    "README_stopwords.txt": "e0365fde880eadb522f844cba2774529969b66b7406db7643cf260dcd77d6541",
+    "codigo_original.txt": "90123d4c20ca6f27d833cefb9481e684b64173a91144f19bfddbaf087b0acb0c",
+    "stopwords_spanish.txt": "6125eadf28ba664a60bf4296147bcbd40b80be93670056fdb229960ac15e2310"
+  },
+  "limitacion": "El notebook original no fija NetworkX ni el hash de las stopwords. Se registran versiones y lista exactas de esta reproducción; no se ajustan reglas para coincidir con un objetivo."
+}

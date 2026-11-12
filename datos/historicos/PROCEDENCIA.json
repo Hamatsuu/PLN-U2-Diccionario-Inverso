@@ -1,0 +1,12 @@
+{
+  "origen": "entrega_diccionario/datos/consultas_desarrollo.jsonl",
+  "copia": "datos/historicos/consultas_desarrollo_nalc_wiktionary.jsonl",
+  "filas": 1000,
+  "sha256": "04a8a327eb744a31932ceb7fcc0634dfda288da931a593bc7c7cb5856f92ea9c",
+  "coincidencias_con_control_dimensiones": {
+    "objetivo": 1000,
+    "definicion": 1000,
+    "semillas": 1000,
+    "excluir": 1000
+  }
+}

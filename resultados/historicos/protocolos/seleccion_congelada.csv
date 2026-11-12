@@ -1,0 +1,10 @@
+modelo,p@1,p@3,p@5,MRR,cobertura,lemas_utiles_promedio,consulta_ms_promedio,n,familia,orientacion,ponderacion,candidatos,ambito_puntuacion
+Fusión RRF,0.027,0.053,0.076,0.0548856202698475,0.985,4.643,44.24106821080204,1000.0,Fusión,no dirigido,-ln(FSG)+1e-6,"globales, menos exclusiones; ver filtro de puntuación en código",dependiente de consulta
+PageRank contrastivo no dirigido,0.017,0.04,0.056,0.0454607242864803,0.985,4.643,69.38750414791866,1000.0,PageRank,no dirigido,FSG,"globales, menos exclusiones; ver filtro de puntuación en código",dependiente de consulta
+Semántica spaCy,0.026,0.042,0.055,0.0424477832009041,0.985,4.643,11.2482340541319,1000.0,Semántica,sin grafo,no aplica,"globales, menos exclusiones; ver filtro de puntuación en código",dependiente de consulta
+Armónica no dirigido,0.01,0.032,0.046,0.0342213142620128,0.985,4.643,27.399467759940308,1000.0,Armónica,no dirigido,-ln(FSG)+1e-6,"globales, menos exclusiones; ver filtro de puntuación en código",dependiente de consulta
+Subconjunto no dirigido,0.015,0.03,0.037,0.024659053735415,0.985,4.643,23.063947293179808,1000.0,Intermediación,no dirigido,-ln(FSG)+1e-6,"globales, menos exclusiones; ver filtro de puntuación en código",dependiente de consulta
+Distancia -log FSG,0.009,0.025,0.035,0.0255762213642153,0.985,4.643,24.357022327082,1000.0,Distancia,dirigido,-ln(FSG)+1e-6,"globales, menos exclusiones; ver filtro de puntuación en código",dependiente de consulta
+node2vec local64,0.014,0.021,0.028,0.0232489285417404,0.985,4.643,1.788399628130719,1000.0,node2vec,dirigido,FSG,"globales, menos exclusiones; ver filtro de puntuación en código",dependiente de consulta
+Grado ponderado reducido,0.007,0.013,0.019,0.017851858879155,0.985,4.643,0.5193407603944,1000.0,Grado,dirigido,FSG,"semillas + sucesores a un salto, menos exclusiones",subgrafo inducido a un salto
+Cercanía -log FSG reducido,0.003,0.011,0.015,0.0142919175569182,0.985,4.643,0.8700125943287276,1000.0,Cercanía,dirigido,-ln(FSG)+1e-6,"semillas + sucesores a un salto, menos exclusiones",subgrafo inducido a un salto

@@ -1,0 +1,4 @@
+nombre,dimension,p,q,longitud,caminatas,modelo,semilla,ventana,epocas,workers,sg,negative,sample,segundos_caminatas,segundos_entrenamiento
+local64,64,1.0,2.0,20,4,node2vec local64,1950,5,5,1,1,5,0,2.4458095000009052,4.241930709016742
+neutral64,64,1.0,1.0,20,4,node2vec neutral64,1950,5,5,1,1,5,0,3.1546009159937967,3.8752073330106214
+explorador64,64,2.0,0.5,20,4,node2vec explorador64,1950,5,5,1,1,5,0,2.4769209579972085,3.328723875019932
