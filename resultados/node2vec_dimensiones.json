@@ -1,0 +1,17 @@
+{
+  "objetivo": "Comparar 64 y 256 dimensiones con el resto de parámetros fijos.",
+  "semilla": 1950,
+  "seleccion_por_prueba": false,
+  "nota": "Nueva evaluación de las mismas 1000 consultas de desarrollo histórico de Wiktionary. NAP/corpus es un control conocido, no prueba independiente.",
+  "aclaracion_muestra": "Se verificó la igualdad de los 1000 ids, objetivos, definiciones, semillas y exclusiones contra entrega_diccionario/datos/consultas_desarrollo.jsonl. La primera descripción del índice decía por error muestra nueva; no cambian vectores, consultas ni métricas.",
+  "ejecuciones": [
+    {
+      "configuracion": "configuraciones/node2vec_256_nalc.json",
+      "ruta": "resultados/experimentos/099d83baedcbda0b"
+    },
+    {
+      "configuracion": "configuraciones/node2vec_256_nap.json",
+      "ruta": "resultados/experimentos/4f2b8987098a0eba"
+    }
+  ]
+}

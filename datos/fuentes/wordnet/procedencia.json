@@ -1,0 +1,12 @@
+{
+  "recurso": "Multilingual Central Repository, español, distribución Open Multilingual Wordnet",
+  "url": "https://raw.githubusercontent.com/omwn/omw-data/406bf83b3c507a3d1f26e88252d5d66893fd36bf/wns/mcr/wn-data-spa.tab",
+  "commit": "406bf83b3c507a3d1f26e88252d5d66893fd36bf",
+  "fecha_descarga_utc": "2026-11-10T20:24:28.815402+00:00",
+  "sha256": "0ec37ce94ee2acc63ad6b120e1051f9841d172778cc24adc0023fb8dccf0a7cd",
+  "licencia": "CC BY 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/3.0/",
+  "fuente_licencia": "https://nlp.lsi.upc.edu/esWN/licenseWN.php",
+  "atribucion": "Multilingual Central Repository (MCR), distribuido por Open Multilingual Wordnet (OMW).\nGonzalez-Agirre, Laparra y Rigau (2012), Multilingual Central Repository version 3.0, LREC.\nBond y Foster (2013), Linking and Extending an Open Multilingual Wordnet, ACL.",
+  "transformaciones": "Fuente TAB conservada byte a byte. Las tablas derivadas seleccionan glosas españolas y vinculan sinónimos exactos con NAP; no se traducen ni generan glosas."
+}

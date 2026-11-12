@@ -1,0 +1,553 @@
+id,concepto,definicion,texto_original,fuente,linea,particion
+Abeja_02,abeja,insecto volador rayado que produce miel,"insecto volador rayado que produce miel
+",corpus/Abeja.txt,2,benchmark_docente
+Abeja_03,abeja,Obreras pequeñitas,"Obreras pequeñitas
+",corpus/Abeja.txt,3,benchmark_docente
+Abeja_04,abeja,"Insecto que pica, Los que hacen la miel","Insecto que pica, Los que hacen la miel
+",corpus/Abeja.txt,4,benchmark_docente
+Abeja_05,abeja,animal que produce miel,"animal que produce miel
+",corpus/Abeja.txt,5,benchmark_docente
+Abeja_06,abeja,insecto volador amarillo y negro,"insecto volador amarillo y negro
+",corpus/Abeja.txt,6,benchmark_docente
+Abrigo_02,abrigo,ropa como sueter que se usa para el frío pero más largo,"ropa como sueter que se usa para el frío pero más largo
+",corpus/Abrigo.txt,2,benchmark_docente
+Abrigo_03,abrigo,Lo que pones encima del sueter,"Lo que pones encima del sueter
+",corpus/Abrigo.txt,3,benchmark_docente
+Abrigo_04,abrigo,Lo que usas para que ni te de frío,"Lo que usas para que ni te de frío
+",corpus/Abrigo.txt,4,benchmark_docente
+Abrigo_05,abrigo,ropa que sirve para protegerse del frío,"ropa que sirve para protegerse del frío
+",corpus/Abrigo.txt,5,benchmark_docente
+Abrigo_06,abrigo,vestido que te cubre cuando hay frío,"vestido que te cubre cuando hay frío
+",corpus/Abrigo.txt,6,benchmark_docente
+Ardilla_02,ardilla,Roedor comedor de nueces,"Roedor comedor de nueces
+",corpus/Ardilla.txt,2,benchmark_docente
+Ardilla_03,ardilla,Nueces,"Nueces
+",corpus/Ardilla.txt,3,benchmark_docente
+Ardilla_04,ardilla,"Animal que come nueces, vive y trepa en los árboles. Cuatro patas, con pelaje café o grisaseo","Animal que come nueces, vive y trepa en los árboles. Cuatro patas, con pelaje café o grisaseo
+",corpus/Ardilla.txt,4,benchmark_docente
+Ardilla_05,ardilla,El animalito que come nueces. El que sale en la Era de Hielo.,"El animalito que come nueces. El que sale en la Era de Hielo.
+",corpus/Ardilla.txt,5,benchmark_docente
+Ardilla_06,ardilla,Animal roedor que come bellotas,"Animal roedor que come bellotas
+",corpus/Ardilla.txt,6,benchmark_docente
+Aspiradora_02,aspiradora,electrodoméstico que sirve para juntar polvo,"electrodoméstico que sirve para juntar polvo
+",corpus/Aspiradora.txt,2,benchmark_docente
+Aspiradora_03,aspiradora,Escoba eléctrica,"Escoba eléctrica
+",corpus/Aspiradora.txt,3,benchmark_docente
+Aspiradora_04,aspiradora,Aparato para sacar el polvo,"Aparato para sacar el polvo
+",corpus/Aspiradora.txt,4,benchmark_docente
+Aspiradora_05,aspiradora,aparato electrónico para quitar el polvo,"aparato electrónico para quitar el polvo
+",corpus/Aspiradora.txt,5,benchmark_docente
+Aspiradora_06,aspiradora,es un aparato para limpiar y succionar el polvo,"es un aparato para limpiar y succionar el polvo
+",corpus/Aspiradora.txt,6,benchmark_docente
+Autobús_02,autobús,transporte terrestre público de pasajeros muy grande,"transporte terrestre público de pasajeros muy grande
+",corpus/Autobús.txt,2,benchmark_docente
+Autobús_03,autobús,Transporte público grande,"Transporte público grande
+",corpus/Autobús.txt,3,benchmark_docente
+Autobús_04,autobús,Carro grande para llevar pasajeros que no es una combi o un metro,"Carro grande para llevar pasajeros que no es una combi o un metro
+",corpus/Autobús.txt,4,benchmark_docente
+Autobús_05,autobús,transporte para muchas personas,"transporte para muchas personas
+",corpus/Autobús.txt,5,benchmark_docente
+Autobús_06,autobús,transporte público de pasajeros,"transporte público de pasajeros
+",corpus/Autobús.txt,6,benchmark_docente
+Avión_02,avión,medio de transporte con el que puedes volar,"medio de transporte con el que puedes volar
+",corpus/Avión.txt,2,benchmark_docente
+Avión_03,avión,Un sistema de transporte que se va volando por el cielo.,"Un sistema de transporte que se va volando por el cielo.
+",corpus/Avión.txt,3,benchmark_docente
+Avión_04,avión,medio de transporte que vuela,"medio de transporte que vuela
+",corpus/Avión.txt,4,benchmark_docente
+Avión_05,avión,transporte aéreo,"transporte aéreo
+",corpus/Avión.txt,5,benchmark_docente
+Avión_06,avión,medio de transporte en el aire,"medio de transporte en el aire
+",corpus/Avión.txt,6,benchmark_docente
+Barco_02,barco,Un medio de transporte que navega por el mar,"Un medio de transporte que navega por el mar
+",corpus/Barco.txt,2,benchmark_docente
+Barco_03,barco,Donde van las personas en el mar,"Donde van las personas en el mar
+",corpus/Barco.txt,3,benchmark_docente
+Barco_04,barco,zarpar,"zarpar
+",corpus/Barco.txt,4,benchmark_docente
+Barco_05,barco,balsa grande que flota en el mar,"balsa grande que flota en el mar
+",corpus/Barco.txt,5,benchmark_docente
+Barco_06,barco,Titanic,"Titanic
+",corpus/Barco.txt,6,benchmark_docente
+Bicicleta_02,bicicleta,"Transporte que no necesita de gasolina o derivados, se mueve gracias a la fuerza que realiza el humano. Existen algunas estacionarias que son usadas para hacer ejercicio.","Transporte que no necesita de gasolina o derivados, se mueve gracias a la fuerza que realiza el humano. Existen algunas estacionarias que son usadas para hacer ejercicio.
+",corpus/Bicicleta.txt,2,benchmark_docente
+Bicicleta_03,bicicleta,la que pedaleas,"la que pedaleas
+",corpus/Bicicleta.txt,3,benchmark_docente
+Bicicleta_04,bicicleta,Es un transporte que se promueve los fines de semana en la ciudad,"Es un transporte que se promueve los fines de semana en la ciudad
+",corpus/Bicicleta.txt,4,benchmark_docente
+Bicicleta_05,bicicleta,Vehículo sin motor y con dos ruedas,"Vehículo sin motor y con dos ruedas
+",corpus/Bicicleta.txt,5,benchmark_docente
+Bicicleta_06,bicicleta,la moto sin motor,"la moto sin motor
+",corpus/Bicicleta.txt,6,benchmark_docente
+Boca_02,boca,agujero con dientes y lengua que usamos para hablar y para comer,"agujero con dientes y lengua que usamos para hablar y para comer
+",corpus/Boca.txt,2,benchmark_docente
+Boca_03,boca,Con lo que besas,"Con lo que besas
+",corpus/Boca.txt,3,benchmark_docente
+Boca_04,boca,Lo que usas para hablar y comer,"Lo que usas para hablar y comer
+",corpus/Boca.txt,4,benchmark_docente
+Boca_05,boca,parte del cuerpo humano con la que comemos,"parte del cuerpo humano con la que comemos
+",corpus/Boca.txt,5,benchmark_docente
+Boca_06,boca,"parte del cuerpo, tiene labios y te sirve para hablar","parte del cuerpo, tiene labios y te sirve para hablar
+",corpus/Boca.txt,6,benchmark_docente
+Borrego_02,borrego,animal de granja con lana y que usan para la barbacoa,"animal de granja con lana y que usan para la barbacoa
+",corpus/Borrego.txt,2,benchmark_docente
+Borrego_03,borrego,Animal con lana que no es alpaca,"Animal con lana que no es alpaca
+",corpus/Borrego.txt,3,benchmark_docente
+Borrego_04,borrego,Animal acolchonado blanco,"Animal acolchonado blanco
+",corpus/Borrego.txt,4,benchmark_docente
+Borrego_05,borrego,animal que produce lana,"animal que produce lana
+",corpus/Borrego.txt,5,benchmark_docente
+Borrego_06,borrego,animal de un ganado que produce lana,"animal de un ganado que produce lana
+",corpus/Borrego.txt,6,benchmark_docente
+Brazo_02,brazo,parte del cuerpo en donde están las manos,"parte del cuerpo en donde están las manos
+",corpus/Brazo.txt,2,benchmark_docente
+Brazo_03,brazo,"Una parte del cuerpo, que sostiene cosas y aplica fuerza.","Una parte del cuerpo, que sostiene cosas y aplica fuerza.
+",corpus/Brazo.txt,3,benchmark_docente
+Brazo_04,brazo,extremidad superior del cuerpo humano,"extremidad superior del cuerpo humano
+",corpus/Brazo.txt,4,benchmark_docente
+Brazo_05,brazo,parte del cuerpo que te permite agarrar cosas,"parte del cuerpo que te permite agarrar cosas
+",corpus/Brazo.txt,5,benchmark_docente
+Brazo_06,brazo,es una parte del cuerpo pegada a la mano,"es una parte del cuerpo pegada a la mano
+",corpus/Brazo.txt,6,benchmark_docente
+Búho_02,búho,"pajaro nocturno que caza ratones que tiene grandes ojos, que ulula y que usan para simbolizar la inteligencia y que no es la lechuza","pajaro nocturno que caza ratones que tiene grandes ojos, que ulula y que usan para simbolizar la inteligencia y que no es la lechuza
+",corpus/Búho.txt,2,benchmark_docente
+Búho_03,búho,Ave que voltea la cabeza,"Ave que voltea la cabeza
+",corpus/Búho.txt,3,benchmark_docente
+Búho_04,búho,"Animal, con alas, ojos bonitos, que se parece al logo de Sanborns","Animal, con alas, ojos bonitos, que se parece al logo de Sanborns
+",corpus/Búho.txt,4,benchmark_docente
+Búho_05,búho,ave de ojos grandes que simboliza inteligencia,"ave de ojos grandes que simboliza inteligencia
+",corpus/Búho.txt,5,benchmark_docente
+Búho_06,búho,"ave nocturna, refiere sabiduría","ave nocturna, refiere sabiduría
+",corpus/Búho.txt,6,benchmark_docente
+Caballo_02,caballo,animal que se puede montar,"animal que se puede montar
+",corpus/Caballo.txt,2,benchmark_docente
+Caballo_03,caballo,Un animal de cuatro patas que corre mucho y se usa para carreras.,"Un animal de cuatro patas que corre mucho y se usa para carreras.
+",corpus/Caballo.txt,3,benchmark_docente
+Caballo_04,caballo,"animal equino usado para cabalgar, se usa en los juegos de polo","animal equino usado para cabalgar, se usa en los juegos de polo
+",corpus/Caballo.txt,4,benchmark_docente
+Caballo_05,caballo,animal que galopa y relincha,"animal que galopa y relincha
+",corpus/Caballo.txt,5,benchmark_docente
+Caballo_06,caballo,animal que relincha,"animal que relincha
+",corpus/Caballo.txt,6,benchmark_docente
+Calabaza_02,calabaza,verdura amarilla o naranja muy grande y redonda que usan para hacer lámparas,"verdura amarilla o naranja muy grande y redonda que usan para hacer lámparas
+",corpus/Calabaza.txt,2,benchmark_docente
+Calabaza_03,calabaza,Adornos de Halloween,"Adornos de Halloween
+",corpus/Calabaza.txt,3,benchmark_docente
+Calabaza_04,calabaza,La cosa naranja a la que le ponen cara en Halloween,"La cosa naranja a la que le ponen cara en Halloween
+",corpus/Calabaza.txt,4,benchmark_docente
+Calabaza_05,calabaza,"verdura de color verde y amarilla por dentro, de sabor dulzón","verdura de color verde y amarilla por dentro, de sabor dulzón
+",corpus/Calabaza.txt,5,benchmark_docente
+Calabaza_06,calabaza,verdura verde con pepita para hacer consomé,"verdura verde con pepita para hacer consomé
+",corpus/Calabaza.txt,6,benchmark_docente
+Camisa_02,camisa,"tipo de playera que se usa para eventos formales, ir a trabajar y tiene cuello y botones","tipo de playera que se usa para eventos formales, ir a trabajar y tiene cuello y botones
+",corpus/Camisa.txt,2,benchmark_docente
+Camisa_03,camisa,"Es una ropa que se usa para un evento formal, trabajo o estudio.","Es una ropa que se usa para un evento formal, trabajo o estudio.
+",corpus/Camisa.txt,3,benchmark_docente
+Camisa_04,camisa,prenda de vestir masculina que tiene botones al frente,"prenda de vestir masculina que tiene botones al frente
+",corpus/Camisa.txt,4,benchmark_docente
+Camisa_05,camisa,vestimenta formal para hombres,"vestimenta formal para hombres
+",corpus/Camisa.txt,5,benchmark_docente
+Camisa_06,camisa,Es una prende vestir que tiene mangas y cuello,"Es una prende vestir que tiene mangas y cuello
+",corpus/Camisa.txt,6,benchmark_docente
+Camión_02,camión,Transporte público,"Transporte público
+",corpus/Camión.txt,2,benchmark_docente
+Camión_03,camión,Bus,"Bus
+",corpus/Camión.txt,3,benchmark_docente
+Camión_04,camión,"Medio de transporte grande con cuatro ruedas, que se utiliza para carga pesada","Medio de transporte grande con cuatro ruedas, que se utiliza para carga pesada
+",corpus/Camión.txt,4,benchmark_docente
+Camión_05,camión,El transporte público.,"El transporte público.
+",corpus/Camión.txt,5,benchmark_docente
+Camión_06,camión,Medio de transporte público,"Medio de transporte público
+",corpus/Camión.txt,6,benchmark_docente
+Cebra_02,cebra,El animal que parece caballo y tiene rayas blancas y negras,"El animal que parece caballo y tiene rayas blancas y negras
+",corpus/Cebra.txt,2,benchmark_docente
+Cebra_03,cebra,Un animal que parece caballo pero con rayas,"Un animal que parece caballo pero con rayas
+",corpus/Cebra.txt,3,benchmark_docente
+Cebra_04,cebra,equino,"equino
+",corpus/Cebra.txt,4,benchmark_docente
+Cebra_05,cebra,el animal con rayas blancas y negras,"el animal con rayas blancas y negras
+",corpus/Cebra.txt,5,benchmark_docente
+Cebra_06,cebra,Burro,"Burro
+",corpus/Cebra.txt,6,benchmark_docente
+Chocolate_02,chocolate,alimento dulce y café de origen prehispánico que a casi todos les gusta y produce endorfina.,"alimento dulce y café de origen prehispánico que a casi todos les gusta y produce endorfina.
+",corpus/Chocolate.txt,2,benchmark_docente
+Chocolate_03,chocolate,Golosina,"Golosina
+",corpus/Chocolate.txt,3,benchmark_docente
+Chocolate_04,chocolate,"Sabe dulce, es de color café y viene del cacao","Sabe dulce, es de color café y viene del cacao
+",corpus/Chocolate.txt,4,benchmark_docente
+Chocolate_05,chocolate,postre de sabor dulce y preshispánico elaborado con cacao,"postre de sabor dulce y preshispánico elaborado con cacao
+",corpus/Chocolate.txt,5,benchmark_docente
+Chocolate_06,chocolate,bebida caliente muy dulce de méxico,"bebida caliente muy dulce de méxico
+",corpus/Chocolate.txt,6,benchmark_docente
+Cochino_02,cochino,"Animal consumido en México en carnitas, chicharrón y de él proviene la manteca.","Animal consumido en México en carnitas, chicharrón y de él proviene la manteca.
+",corpus/Cochino.txt,2,benchmark_docente
+Cochino_03,cochino,con el que se hacen las carnitas,"con el que se hacen las carnitas
+",corpus/Cochino.txt,3,benchmark_docente
+Cochino_04,cochino,Que esta sucio,"Que esta sucio
+",corpus/Cochino.txt,4,benchmark_docente
+Cochino_05,cochino,Parecido al cerdo o puerco,"Parecido al cerdo o puerco
+",corpus/Cochino.txt,5,benchmark_docente
+Cochino_06,cochino,el animal de la alcancía,"el animal de la alcancía
+",corpus/Cochino.txt,6,benchmark_docente
+Dulce_02,dulce,alimento con mucha azúcar que es rico,"alimento con mucha azúcar que es rico
+",corpus/Dulce.txt,2,benchmark_docente
+Dulce_03,dulce,Esa sensacion que produce comer azucar.,"Esa sensacion que produce comer azucar.
+",corpus/Dulce.txt,3,benchmark_docente
+Dulce_04,dulce,sabor característico de los alimentos con azúcar,"sabor característico de los alimentos con azúcar
+",corpus/Dulce.txt,4,benchmark_docente
+Dulce_05,dulce,caramelo que se le da a los niños,"caramelo que se le da a los niños
+",corpus/Dulce.txt,5,benchmark_docente
+Dulce_06,dulce,golosinas le gusta mucho a los niños,"golosinas le gusta mucho a los niños
+",corpus/Dulce.txt,6,benchmark_docente
+Durazno_02,durazno,fruta dulce con hueso no muy grande y con vellitos blancos,"fruta dulce con hueso no muy grande y con vellitos blancos
+",corpus/Durazno.txt,2,benchmark_docente
+Durazno_03,durazno,Color como el melocotón pero más naranja,"Color como el melocotón pero más naranja
+",corpus/Durazno.txt,3,benchmark_docente
+Durazno_04,durazno,"Fruta, suave, cáscara roja o amarilla, sabor dulce","Fruta, suave, cáscara roja o amarilla, sabor dulce
+",corpus/Durazno.txt,4,benchmark_docente
+Durazno_05,durazno,fruta color naranja de sabor dulce y aterciopelada,"fruta color naranja de sabor dulce y aterciopelada
+",corpus/Durazno.txt,5,benchmark_docente
+Durazno_06,durazno,"fruto con semilla grande, aterciopelado","fruto con semilla grande, aterciopelado
+",corpus/Durazno.txt,6,benchmark_docente
+Ejote_02,ejote,verdura verde larga parecida a los chícharos,"verdura verde larga parecida a los chícharos
+",corpus/Ejote.txt,2,benchmark_docente
+Ejote_03,ejote,"Unas verduras de la cual se prepara con huevo, es larga y verde.","Unas verduras de la cual se prepara con huevo, es larga y verde.
+",corpus/Ejote.txt,3,benchmark_docente
+Ejote_04,ejote,verdura de color verde que se compone de una vaina,"verdura de color verde que se compone de una vaina
+",corpus/Ejote.txt,4,benchmark_docente
+Ejote_05,ejote,verdura larga pequeña verde,"verdura larga pequeña verde
+",corpus/Ejote.txt,5,benchmark_docente
+Ejote_06,ejote,es una vaina verde,"es una vaina verde
+",corpus/Ejote.txt,6,benchmark_docente
+Elote_02,elote,Base para los esquites,"Base para los esquites
+",corpus/Elote.txt,2,benchmark_docente
+Elote_03,elote,Tortilla,"Tortilla
+",corpus/Elote.txt,3,benchmark_docente
+Elote_04,elote,"Fruto que crece de una milpa, con granos, color como amarillo y blanco","Fruto que crece de una milpa, con granos, color como amarillo y blanco
+",corpus/Elote.txt,4,benchmark_docente
+Elote_05,elote,De donde vienen los esquites. Que le echan mayonesa o lo asan.,"De donde vienen los esquites. Que le echan mayonesa o lo asan.
+",corpus/Elote.txt,5,benchmark_docente
+Elote_06,elote,Alimento típico para la elaboración de comida mexicana.,"Alimento típico para la elaboración de comida mexicana.
+",corpus/Elote.txt,6,benchmark_docente
+Espagueti_02,espagueti,alimento de harina italiano en fideo que va con crema o en jitomate,"alimento de harina italiano en fideo que va con crema o en jitomate
+",corpus/Espagueti.txt,2,benchmark_docente
+Espagueti_03,espagueti,Pasta que se enreda,"Pasta que se enreda
+",corpus/Espagueti.txt,3,benchmark_docente
+Espagueti_04,espagueti,"Como sopa de fideo, pero seca","Como sopa de fideo, pero seca
+",corpus/Espagueti.txt,4,benchmark_docente
+Espagueti_05,espagueti,comida típica de italia elaborada de pasta con forma tubular y alargada,"comida típica de italia elaborada de pasta con forma tubular y alargada
+",corpus/Espagueti.txt,5,benchmark_docente
+Espagueti_06,espagueti,ingrediente básico de la alimentación italiana,"ingrediente básico de la alimentación italiana
+",corpus/Espagueti.txt,6,benchmark_docente
+Falda_02,falda,"La prenda de ropa que usan, a veces, las mujeres en vez del pantalón","La prenda de ropa que usan, a veces, las mujeres en vez del pantalón
+",corpus/Falda.txt,2,benchmark_docente
+Falda_03,falda,Es como un short pero sin lo de enmedio de las piernas,"Es como un short pero sin lo de enmedio de las piernas
+",corpus/Falda.txt,3,benchmark_docente
+Falda_04,falda,ropa,"ropa
+",corpus/Falda.txt,4,benchmark_docente
+Falda_05,falda,tela en forma circular para mujeres,"tela en forma circular para mujeres
+",corpus/Falda.txt,5,benchmark_docente
+Falda_06,falda,Ropa mujer,"Ropa mujer
+",corpus/Falda.txt,6,benchmark_docente
+Fresa_02,fresa,"fruta pequeña que es roja con un rabito verde, se hace mermelada con ella","fruta pequeña que es roja con un rabito verde, se hace mermelada con ella
+",corpus/Fresa.txt,2,benchmark_docente
+Fresa_03,fresa,Una fruta roja se hace mermelada con ella.,"Una fruta roja se hace mermelada con ella.
+",corpus/Fresa.txt,3,benchmark_docente
+Fresa_04,fresa,"única fruta que tiene sus semillas exteriores y es de color rojo, es pequeña y de sabor dulce.","única fruta que tiene sus semillas exteriores y es de color rojo, es pequeña y de sabor dulce.
+",corpus/Fresa.txt,4,benchmark_docente
+Fresa_05,fresa,"fruta dulce pequeña, roja","fruta dulce pequeña, roja
+",corpus/Fresa.txt,5,benchmark_docente
+Fresa_06,fresa,fruta roja chiquita con semillas,"fruta roja chiquita con semillas
+",corpus/Fresa.txt,6,benchmark_docente
+Galleta_02,galleta,"La tomas con leche, por lo regular son redondas","La tomas con leche, por lo regular son redondas
+",corpus/Galleta.txt,2,benchmark_docente
+Galleta_03,galleta,Postre que se hornea y es planito y crujiente y puede tener chispas de chocolate,"Postre que se hornea y es planito y crujiente y puede tener chispas de chocolate
+",corpus/Galleta.txt,3,benchmark_docente
+Galleta_04,galleta,hornear,"hornear
+",corpus/Galleta.txt,4,benchmark_docente
+Galleta_05,galleta,masa crujiente en forma redonda,"masa crujiente en forma redonda
+",corpus/Galleta.txt,5,benchmark_docente
+Galleta_06,galleta,Polvorón,"Polvorón
+",corpus/Galleta.txt,6,benchmark_docente
+Gallina_02,gallina,el animal que pone los huevos,"el animal que pone los huevos
+",corpus/Gallina.txt,2,benchmark_docente
+Gallina_03,gallina,Animal que pone huevos.,"Animal que pone huevos.
+",corpus/Gallina.txt,3,benchmark_docente
+Gallina_04,gallina,ave que pone huevos y cacarea,"ave que pone huevos y cacarea
+",corpus/Gallina.txt,4,benchmark_docente
+Gallina_05,gallina,ave que da huevos,"ave que da huevos
+",corpus/Gallina.txt,5,benchmark_docente
+Gallina_06,gallina,ave que pone huevos,"ave que pone huevos
+",corpus/Gallina.txt,6,benchmark_docente
+Ganso_02,ganso,"Es un ave muy parecida al pato pero más grande y, además, agresivo","Es un ave muy parecida al pato pero más grande y, además, agresivo
+",corpus/Ganso.txt,2,benchmark_docente
+Ganso_03,ganso,Un animal que parece pato pero no es un pato,"Un animal que parece pato pero no es un pato
+",corpus/Ganso.txt,3,benchmark_docente
+Ganso_04,ganso,cisne,"cisne
+",corpus/Ganso.txt,4,benchmark_docente
+Ganso_05,ganso,esos que parecen patos pero más grandes,"esos que parecen patos pero más grandes
+",corpus/Ganso.txt,5,benchmark_docente
+Ganso_06,ganso,Pato pato,"Pato pato
+",corpus/Ganso.txt,6,benchmark_docente
+Gelatina_02,gelatina,"Postre elaborado con agua, puede ser de diversos sabores. Este postre es recomendado para que los enfermos lo consuman.","Postre elaborado con agua, puede ser de diversos sabores. Este postre es recomendado para que los enfermos lo consuman.
+",corpus/Gelatina.txt,2,benchmark_docente
+Gelatina_03,gelatina,La que se hace con agua y cuaja,"La que se hace con agua y cuaja
+",corpus/Gelatina.txt,3,benchmark_docente
+Gelatina_04,gelatina,Sus sabores son de frutas y nunca faltan en los cumpleaños,"Sus sabores son de frutas y nunca faltan en los cumpleaños
+",corpus/Gelatina.txt,4,benchmark_docente
+Gelatina_05,gelatina,Postre de sabores a base de agua que se deja cuajar,"Postre de sabores a base de agua que se deja cuajar
+",corpus/Gelatina.txt,5,benchmark_docente
+Gelatina_06,gelatina,el postre viscoso que dan en las fiestas,"el postre viscoso que dan en las fiestas
+",corpus/Gelatina.txt,6,benchmark_docente
+Guajolote_02,guajolote,Animal mexicano que es similar al pavo y se cocina también con mole,"Animal mexicano que es similar al pavo y se cocina también con mole
+",corpus/Guajolote.txt,2,benchmark_docente
+Guajolote_03,guajolote,el ave que es el pavo en estados unidos,"el ave que es el pavo en estados unidos
+",corpus/Guajolote.txt,3,benchmark_docente
+Guajolote_04,guajolote,Se acompaña con mole,"Se acompaña con mole
+",corpus/Guajolote.txt,4,benchmark_docente
+Guajolote_05,guajolote,Ave similar a una gallina grande,"Ave similar a una gallina grande
+",corpus/Guajolote.txt,5,benchmark_docente
+Guajolote_06,guajolote,"el animal que dice ""gordogordogordo""","el animal que dice ""gordogordogordo""
+",corpus/Guajolote.txt,6,benchmark_docente
+Hamburguesa_02,hamburguesa,"comida rica que lleva carne entre dos panes, lechuga, jitomate, queso y catsup","comida rica que lleva carne entre dos panes, lechuga, jitomate, queso y catsup
+",corpus/Hamburguesa.txt,2,benchmark_docente
+Hamburguesa_03,hamburguesa,"Tiene carne, lechuga, tomate con tapa y base de pan.","Tiene carne, lechuga, tomate con tapa y base de pan.
+",corpus/Hamburguesa.txt,3,benchmark_docente
+Hamburguesa_04,hamburguesa,"alimento compuesto de dos panes y carne en la parte central, lleva lechuga, jitomate, pepinillos y cebolla.","alimento compuesto de dos panes y carne en la parte central, lleva lechuga, jitomate, pepinillos y cebolla.
+",corpus/Hamburguesa.txt,4,benchmark_docente
+Hamburguesa_05,hamburguesa,comida estadounidense que tiene pan y carne,"comida estadounidense que tiene pan y carne
+",corpus/Hamburguesa.txt,5,benchmark_docente
+Hamburguesa_06,hamburguesa,comida chatarra que se sirve con pan,"comida chatarra que se sirve con pan
+",corpus/Hamburguesa.txt,6,benchmark_docente
+Helado_02,helado,"Napolitano, frío, cono","Napolitano, frío, cono
+",corpus/Helado.txt,2,benchmark_docente
+Helado_03,helado,Frío,"Frío
+",corpus/Helado.txt,3,benchmark_docente
+Helado_04,helado,Postre formado por un cono de galleta y bolas de una mezcla fría de diferentes sabores,"Postre formado por un cono de galleta y bolas de una mezcla fría de diferentes sabores
+",corpus/Helado.txt,4,benchmark_docente
+Helado_05,helado,Postre. El del conito.,"Postre. El del conito.
+",corpus/Helado.txt,5,benchmark_docente
+Helado_06,helado,"Alimento dulce, postre frío..","Alimento dulce, postre frío..
+",corpus/Helado.txt,6,benchmark_docente
+Lavadora_02,lavadora,El aparato doméstico para lavar ropa,"El aparato doméstico para lavar ropa
+",corpus/Lavadora.txt,2,benchmark_docente
+Lavadora_03,lavadora,Artefacto donde metes a lavar/ limpiar tu ropa,"Artefacto donde metes a lavar/ limpiar tu ropa
+",corpus/Lavadora.txt,3,benchmark_docente
+Lavadora_04,lavadora,lavar,"lavar
+",corpus/Lavadora.txt,4,benchmark_docente
+Lavadora_05,lavadora,donde se lava la ropa,"donde se lava la ropa
+",corpus/Lavadora.txt,5,benchmark_docente
+Lavadora_06,lavadora,Ropa,"Ropa
+",corpus/Lavadora.txt,6,benchmark_docente
+León_02,león,Ruge y vive en la selva,"Ruge y vive en la selva
+",corpus/León.txt,2,benchmark_docente
+León_03,león,Rey,"Rey
+",corpus/León.txt,3,benchmark_docente
+León_04,león,"Animal carnívoro, de cuatro patas, grande melena, pelaje amarillo. Es el rey de la selva","Animal carnívoro, de cuatro patas, grande melena, pelaje amarillo. Es el rey de la selva
+",corpus/León.txt,4,benchmark_docente
+León_05,león,El animal del escudo de Gryffindor.,"El animal del escudo de Gryffindor.
+",corpus/León.txt,5,benchmark_docente
+León_06,león,Animal conocido como el rey de la selva,"Animal conocido como el rey de la selva
+",corpus/León.txt,6,benchmark_docente
+Lámpara_02,lámpara,"sirve para iluminar un espacio, lleva un foco","sirve para iluminar un espacio, lleva un foco
+",corpus/Lámpara.txt,2,benchmark_docente
+Lámpara_03,lámpara,Objeto que se necesita para que haya luz de noche.,"Objeto que se necesita para que haya luz de noche.
+",corpus/Lámpara.txt,3,benchmark_docente
+Lámpara_04,lámpara,aparato eléctrico usado para alumbrar lugares,"aparato eléctrico usado para alumbrar lugares
+",corpus/Lámpara.txt,4,benchmark_docente
+Lámpara_05,lámpara,objeto que da luz por la noche,"objeto que da luz por la noche
+",corpus/Lámpara.txt,5,benchmark_docente
+Lámpara_06,lámpara,objeto que ilumina algún cuarto,"objeto que ilumina algún cuarto
+",corpus/Lámpara.txt,6,benchmark_docente
+Mano_02,mano,La parte del cuerpo con la que agarras los objetos y que tiene 5 dedos,"La parte del cuerpo con la que agarras los objetos y que tiene 5 dedos
+",corpus/Mano.txt,2,benchmark_docente
+Mano_03,mano,La parte del cuerpo conde terminan los brazos,"La parte del cuerpo conde terminan los brazos
+",corpus/Mano.txt,3,benchmark_docente
+Mano_04,mano,extremidad,"extremidad
+",corpus/Mano.txt,4,benchmark_docente
+Mano_05,mano,con lo que agarran las cosas los humanos,"con lo que agarran las cosas los humanos
+",corpus/Mano.txt,5,benchmark_docente
+Mano_06,mano,Pie,"Pie
+",corpus/Mano.txt,6,benchmark_docente
+Manzana_02,manzana,"La fruta que es redonda y puede ser de color rojo, verde y amarillo","La fruta que es redonda y puede ser de color rojo, verde y amarillo
+",corpus/Manzana.txt,2,benchmark_docente
+Manzana_03,manzana,Una fruta roja que le das a tu maestra,"Una fruta roja que le das a tu maestra
+",corpus/Manzana.txt,3,benchmark_docente
+Manzana_04,manzana,fruta,"fruta
+",corpus/Manzana.txt,4,benchmark_docente
+Manzana_05,manzana,la fruta a la que le ponen chamoy y miguelito,"la fruta a la que le ponen chamoy y miguelito
+",corpus/Manzana.txt,5,benchmark_docente
+Manzana_06,manzana,Blanca nieves,"Blanca nieves
+",corpus/Manzana.txt,6,benchmark_docente
+Mariposa_02,mariposa,Un insecto de colores vivos que vuela,"Un insecto de colores vivos que vuela
+",corpus/Mariposa.txt,2,benchmark_docente
+Mariposa_03,mariposa,Esto en lo que se convierten las orugas cuado les salen alas,"Esto en lo que se convierten las orugas cuado les salen alas
+",corpus/Mariposa.txt,3,benchmark_docente
+Mariposa_04,mariposa,alas,"alas
+",corpus/Mariposa.txt,4,benchmark_docente
+Mariposa_05,mariposa,en lo que se convierten las orugas,"en lo que se convierten las orugas
+",corpus/Mariposa.txt,5,benchmark_docente
+Mariposa_06,mariposa,Monarca,"Monarca
+",corpus/Mariposa.txt,6,benchmark_docente
+Melón_02,melón,"Fruta color naranja pastel usualmente se encuentra en los cócteles de fruta. Tiene cáscara dura, es necesario utilizar un cuchillo para poder consumirla.","Fruta color naranja pastel usualmente se encuentra en los cócteles de fruta. Tiene cáscara dura, es necesario utilizar un cuchillo para poder consumirla.
+",corpus/Melón.txt,2,benchmark_docente
+Melón_03,melón,"la fruta que es rosa por dentro, que también es un color.","la fruta que es rosa por dentro, que también es un color.
+",corpus/Melón.txt,3,benchmark_docente
+Melón_04,melón,Fruta anaranjada que es china,"Fruta anaranjada que es china
+",corpus/Melón.txt,4,benchmark_docente
+Melón_05,melón,"Fruta redonda de cáscara clara, rugosa e interior naranja","Fruta redonda de cáscara clara, rugosa e interior naranja
+",corpus/Melón.txt,5,benchmark_docente
+Melón_06,melón,la fruta redonda y grande... con semillitas,"la fruta redonda y grande... con semillitas
+",corpus/Melón.txt,6,benchmark_docente
+Ojo_02,ojo,Parte del cuerpo que se utiliza para ver,"Parte del cuerpo que se utiliza para ver
+",corpus/Ojo.txt,2,benchmark_docente
+Ojo_03,ojo,Tenemos dos y pueden ser de diferentes colores,"Tenemos dos y pueden ser de diferentes colores
+",corpus/Ojo.txt,3,benchmark_docente
+Ojo_04,ojo,Órgano que usamos para ver,"Órgano que usamos para ver
+",corpus/Ojo.txt,4,benchmark_docente
+Ojo_05,ojo,con lo que vemos,"con lo que vemos
+",corpus/Ojo.txt,5,benchmark_docente
+Pan_02,pan,El alimento que no puede faltar en el desayuno y que engorda,"El alimento que no puede faltar en el desayuno y que engorda
+",corpus/Pan.txt,2,benchmark_docente
+Pan_03,pan,"Esa comida esponjocita que se hace con harina y se hornea, y se puede comer con leche o café","Esa comida esponjocita que se hace con harina y se hornea, y se puede comer con leche o café
+",corpus/Pan.txt,3,benchmark_docente
+Pan_04,pan,cebada,"cebada
+",corpus/Pan.txt,4,benchmark_docente
+Pan_05,pan,bolillo,"bolillo
+",corpus/Pan.txt,5,benchmark_docente
+Pan_06,pan,Concha,"Concha
+",corpus/Pan.txt,6,benchmark_docente
+Pantalón_02,pantalón,Ropa de vestir que generalmente está elaborado con mezclilla aunque puede ser hecho con otros materiales y es utilizado en su mayoría por hombres,"Ropa de vestir que generalmente está elaborado con mezclilla aunque puede ser hecho con otros materiales y es utilizado en su mayoría por hombres
+",corpus/Pantalón.txt,2,benchmark_docente
+Pantalón_03,pantalón,la prenda de ropa que es de mezclilla,"la prenda de ropa que es de mezclilla
+",corpus/Pantalón.txt,3,benchmark_docente
+Pantalón_04,pantalón,prenda de vestir que se ajusta en la cintura y en las piernas,"prenda de vestir que se ajusta en la cintura y en las piernas
+",corpus/Pantalón.txt,4,benchmark_docente
+Pantalón_05,pantalón,Ropa que cubre de manera independiente las dos piernas y llega a los tobillos.,"Ropa que cubre de manera independiente las dos piernas y llega a los tobillos.
+",corpus/Pantalón.txt,5,benchmark_docente
+Pantalón_06,pantalón,prende de vestir para cubrir las piernas.,"prende de vestir para cubrir las piernas.
+",corpus/Pantalón.txt,6,benchmark_docente
+Papas_02,papa,"Es un tubérculo que puede ser comida chatarra, como las Sabritas","Es un tubérculo que puede ser comida chatarra, como las Sabritas
+",corpus/Papas.txt,2,benchmark_docente
+Papas_03,papa,Verdura blanquita que crece abajo de la tierra,"Verdura blanquita que crece abajo de la tierra
+",corpus/Papas.txt,3,benchmark_docente
+Papas_04,papa,Tubérculo,"Tubérculo
+",corpus/Papas.txt,4,benchmark_docente
+Papas_05,papa,frituras,"frituras
+",corpus/Papas.txt,5,benchmark_docente
+Papas_06,papa,A la francesa,"A la francesa
+",corpus/Papas.txt,6,benchmark_docente
+Payaso_02,payaso,Dicho de una persona: Que hace reír con sus dichos o gestos,"Dicho de una persona: Que hace reír con sus dichos o gestos
+",corpus/Payaso.txt,2,benchmark_docente
+Payaso_03,payaso,Dicho de un artista: Ambulante y que debuta en las mojigangas enmascarado.,"Dicho de un artista: Ambulante y que debuta en las mojigangas enmascarado.
+",corpus/Payaso.txt,3,benchmark_docente
+Payaso_04,payaso,"Artista de circo, generalmente caracterizado de modo extravagante, que hace reír con su aspecto, actos, dichos y gestos.","Artista de circo, generalmente caracterizado de modo extravagante, que hace reír con su aspecto, actos, dichos y gestos.
+",corpus/Payaso.txt,4,benchmark_docente
+Pie_02,pie,En el zapato,"En el zapato
+",corpus/Pie.txt,2,benchmark_docente
+Pie_03,pie,Caminar,"Caminar
+",corpus/Pie.txt,3,benchmark_docente
+Pie_04,pie,Parte del cuerpo con la que caminamos y podemos sentir el suelo,"Parte del cuerpo con la que caminamos y podemos sentir el suelo
+",corpus/Pie.txt,4,benchmark_docente
+Pie_05,pie,Lo que está al final de la pierna. Lo que te sostiene.,"Lo que está al final de la pierna. Lo que te sostiene.
+",corpus/Pie.txt,5,benchmark_docente
+Pie_06,pie,Extremidad inferior,"Extremidad inferior
+",corpus/Pie.txt,6,benchmark_docente
+Plancha_02,plancha,"Instrumento doméstico que se utiliza para quitar las arrugar a la ropa. Generalmente se vale del vapor, por lo tanto necesita agua para que funcione.","Instrumento doméstico que se utiliza para quitar las arrugar a la ropa. Generalmente se vale del vapor, por lo tanto necesita agua para que funcione.
+",corpus/Plancha.txt,2,benchmark_docente
+Plancha_03,plancha,la herramienta que ocupas para desarrugar la ropa,"la herramienta que ocupas para desarrugar la ropa
+",corpus/Plancha.txt,3,benchmark_docente
+Plancha_04,plancha,Se usa para las arrugas,"Se usa para las arrugas
+",corpus/Plancha.txt,4,benchmark_docente
+Plancha_05,plancha,Electrodoméstico para quitar arrugas de la ropa a base de calor,"Electrodoméstico para quitar arrugas de la ropa a base de calor
+",corpus/Plancha.txt,5,benchmark_docente
+Plancha_06,plancha,el aparato con el que la ropa queda lisa,"el aparato con el que la ropa queda lisa
+",corpus/Plancha.txt,6,benchmark_docente
+Playera_02,playera,Ropa deportiva,"Ropa deportiva
+",corpus/Playera.txt,2,benchmark_docente
+Playera_03,playera,Ropa,"Ropa
+",corpus/Playera.txt,3,benchmark_docente
+Playera_04,playera,Prenda de vestir que usan tanto hombres como mujeres para cubrir la partes de arriba del cuerpo,"Prenda de vestir que usan tanto hombres como mujeres para cubrir la partes de arriba del cuerpo
+",corpus/Playera.txt,4,benchmark_docente
+Playera_05,playera,Prenda de vestir para la parte superior del cuerpo.,"Prenda de vestir para la parte superior del cuerpo.
+",corpus/Playera.txt,5,benchmark_docente
+Plátano_02,plátano,Fruta amarilla y fálica,"Fruta amarilla y fálica
+",corpus/Plátano.txt,2,benchmark_docente
+Plátano_03,plátano,Mono,"Mono
+",corpus/Plátano.txt,3,benchmark_docente
+Plátano_04,plátano,"Fruta con cáscara color amarilla, por dentro de un color más blanco y espeso. La comen los monos","Fruta con cáscara color amarilla, por dentro de un color más blanco y espeso. La comen los monos
+",corpus/Plátano.txt,4,benchmark_docente
+Plátano_05,plátano,Lo que comen los changos.,"Lo que comen los changos.
+",corpus/Plátano.txt,5,benchmark_docente
+Plátano_06,plátano,Fruta amarilla que es conocida por se alimento de monos,"Fruta amarilla que es conocida por se alimento de monos
+",corpus/Plátano.txt,6,benchmark_docente
+Pájaro_02,pájaro,Vuela en el cielo y no es avión,"Vuela en el cielo y no es avión
+",corpus/Pájaro.txt,2,benchmark_docente
+Pájaro_03,pájaro,Ave,"Ave
+",corpus/Pájaro.txt,3,benchmark_docente
+Pájaro_04,pájaro,Ave de tamaño pequeño de diversos tipos y colores,"Ave de tamaño pequeño de diversos tipos y colores
+",corpus/Pájaro.txt,4,benchmark_docente
+Pájaro_05,pájaro,El animalito que vuela. Del tipo que son las palomas y las urracas.,"El animalito que vuela. Del tipo que son las palomas y las urracas.
+",corpus/Pájaro.txt,5,benchmark_docente
+Pájaro_06,pájaro,Animal que vuela,"Animal que vuela
+",corpus/Pájaro.txt,6,benchmark_docente
+Queso_02,queso,"Alimento elaborado con leche. Existen diferentes tipos: manchego, cotija. panela entre otros.","Alimento elaborado con leche. Existen diferentes tipos: manchego, cotija. panela entre otros.
+",corpus/Queso.txt,2,benchmark_docente
+Queso_03,queso,El producto que se saca de la leche de la vaca,"El producto que se saca de la leche de la vaca
+",corpus/Queso.txt,3,benchmark_docente
+Queso_04,queso,Amarillo y con agujeros,"Amarillo y con agujeros
+",corpus/Queso.txt,4,benchmark_docente
+Queso_05,queso,Derivado lacteo que ponen en trampas para ratones,"Derivado lacteo que ponen en trampas para ratones
+",corpus/Queso.txt,5,benchmark_docente
+Queso_06,queso,como la crema pero sólido,"como la crema pero sólido
+",corpus/Queso.txt,6,benchmark_docente
+Radio_02,radio,Escuchas música en el carro,"Escuchas música en el carro
+",corpus/Radio.txt,2,benchmark_docente
+Radio_03,radio,Programa,"Programa
+",corpus/Radio.txt,3,benchmark_docente
+Radio_04,radio,Aparato electrónico en el que se puede escuchar música y sintonizar diferentes frecuencias,"Aparato electrónico en el que se puede escuchar música y sintonizar diferentes frecuencias
+",corpus/Radio.txt,4,benchmark_docente
+Radio_05,radio,El aparato donde escuchas música. Donde sintonizas estaciones.,"El aparato donde escuchas música. Donde sintonizas estaciones.
+",corpus/Radio.txt,5,benchmark_docente
+Radio_06,radio,Electrónico que sirve para escuchar programas y música.,"Electrónico que sirve para escuchar programas y música.
+",corpus/Radio.txt,6,benchmark_docente
+Rana_02,rana,"es verde y húmedo, brinca y es un tipo de anfibio","es verde y húmedo, brinca y es un tipo de anfibio
+",corpus/Rana.txt,2,benchmark_docente
+Rana_03,rana,Es un anfibio que salta muy alto. Es verde y vive en lugares húmedos.,"Es un anfibio que salta muy alto. Es verde y vive en lugares húmedos.
+",corpus/Rana.txt,3,benchmark_docente
+Rana_04,rana,anfibio de color verde que salta y croa,"anfibio de color verde que salta y croa
+",corpus/Rana.txt,4,benchmark_docente
+Rana_05,rana,anfibio que salta,"anfibio que salta
+",corpus/Rana.txt,5,benchmark_docente
+Rana_06,rana,"animalito que vive en el agua, es verde y hace croac","animalito que vive en el agua, es verde y hace croac
+",corpus/Rana.txt,6,benchmark_docente
+Ratón_02,ratón,Animal de color gris que puede transmitir la rabia. En conjunto es considerado como plaga. Se reproducen de manera abismal.,"Animal de color gris que puede transmitir la rabia. En conjunto es considerado como plaga. Se reproducen de manera abismal.
+",corpus/Ratón.txt,2,benchmark_docente
+Ratón_03,ratón,el animal con cola que anda en coladeras,"el animal con cola que anda en coladeras
+",corpus/Ratón.txt,3,benchmark_docente
+Ratón_04,ratón,Pequeño y le gusta el queso,"Pequeño y le gusta el queso
+",corpus/Ratón.txt,4,benchmark_docente
+Ratón_05,ratón,Roedor perseguido por gatos,"Roedor perseguido por gatos
+",corpus/Ratón.txt,5,benchmark_docente
+Ratón_06,ratón,el animal como mickey mouse,"el animal como mickey mouse
+",corpus/Ratón.txt,6,benchmark_docente
+Taco_02,taco,"Comida mexicana, tortilla","Comida mexicana, tortilla
+",corpus/Taco.txt,2,benchmark_docente
+Taco_03,taco,Típico,"Típico
+",corpus/Taco.txt,3,benchmark_docente
+Taco_04,taco,"Platillo gastronómico elaborado de tortilla y puede ser de diferentes tipo de carne, longaniza y otros ingredientes","Platillo gastronómico elaborado de tortilla y puede ser de diferentes tipo de carne, longaniza y otros ingredientes
+",corpus/Taco.txt,4,benchmark_docente
+Taco_05,taco,Lo que haces rollito con la tortilla.,"Lo que haces rollito con la tortilla.
+",corpus/Taco.txt,5,benchmark_docente
+Taco_06,taco,Todo lo que cabe en una tortilla,"Todo lo que cabe en una tortilla
+",corpus/Taco.txt,6,benchmark_docente
+Zanahoria_02,zanahoria,"Vegetal de color naranja, crece bajo la tierra y es el alimento preferido por los conejos, caballos, al menos en el imaginario colectivo.","Vegetal de color naranja, crece bajo la tierra y es el alimento preferido por los conejos, caballos, al menos en el imaginario colectivo.
+",corpus/Zanahoria.txt,2,benchmark_docente
+Zanahoria_03,zanahoria,la verdura que comen los conejos,"la verdura que comen los conejos
+",corpus/Zanahoria.txt,3,benchmark_docente
+Zanahoria_04,zanahoria,Comerla es buena para la vista,"Comerla es buena para la vista
+",corpus/Zanahoria.txt,4,benchmark_docente
+Zanahoria_05,zanahoria,Raíz naranja que comen los conejos de las caricaturas,"Raíz naranja que comen los conejos de las caricaturas
+",corpus/Zanahoria.txt,5,benchmark_docente
+Zanahoria_06,zanahoria,lo que comen los conejos,"lo que comen los conejos
+",corpus/Zanahoria.txt,6,benchmark_docente

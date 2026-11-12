@@ -1,0 +1,54 @@
+{
+  "protocolo": "datos/baseline_docente/protocolo_fijo.json",
+  "nota": "Aplicación sin reajustes. Comparaciones pareadas dentro de cada ejecución; no selección en prueba. WordNet depende del grafo: no comparar grafos como si fueran las mismas glosas. Los dos controles propios se fijaron antes de esta matriz; no sustituyen el catálogo histórico de 24.",
+  "ejecuciones": [
+    {
+      "grafo": "nap_clase",
+      "dataset": "corpus_clase",
+      "particion": "benchmark_docente",
+      "ruta": "resultados/experimentos/3f058aad0ba4ff2d"
+    },
+    {
+      "grafo": "nap_clase",
+      "dataset": "wordnet",
+      "particion": "prueba",
+      "ruta": "resultados/experimentos/3f22b7951f779ef0"
+    },
+    {
+      "grafo": "nap_clase",
+      "dataset": "wiktionary",
+      "particion": "prueba_reservada",
+      "ruta": "resultados/experimentos/8e7153f8392fb98d"
+    },
+    {
+      "grafo": "nap_clase",
+      "dataset": "equipo",
+      "particion": "complemento_manual",
+      "ruta": "resultados/experimentos/ffc93ba5e16af140"
+    },
+    {
+      "grafo": "nalc",
+      "dataset": "corpus_clase",
+      "particion": "benchmark_docente",
+      "ruta": "resultados/experimentos/ad6ed7f455e9ed4c"
+    },
+    {
+      "grafo": "nalc",
+      "dataset": "wordnet",
+      "particion": "prueba",
+      "ruta": "resultados/experimentos/3f1fa31783d69359"
+    },
+    {
+      "grafo": "nalc",
+      "dataset": "wiktionary",
+      "particion": "prueba_reservada",
+      "ruta": "resultados/experimentos/c7b25b25bf379e9e"
+    },
+    {
+      "grafo": "nalc",
+      "dataset": "equipo",
+      "particion": "complemento_manual",
+      "ruta": "resultados/experimentos/4a8d2dfb2b7df2fe"
+    }
+  ]
+}

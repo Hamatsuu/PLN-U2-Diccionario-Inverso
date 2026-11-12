@@ -1,0 +1,4 @@
+# Instalar desde la carpeta que contiene pyproject.toml, con Python 3.13.
+-e .[test,notebook]
+https://github.com/explosion/spacy-models/releases/download/es_core_news_md-3.8.0/es_core_news_md-3.8.0-py3-none-any.whl
+https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.8.0/es_core_news_sm-3.8.0-py3-none-any.whl

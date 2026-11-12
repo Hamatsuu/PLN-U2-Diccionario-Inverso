@@ -1,0 +1,14 @@
+{
+  "grafo": "nalc",
+  "dataset": "wordnet",
+  "particion": "desarrollo",
+  "limite": 60,
+  "semilla": 1950,
+  "permitir_prueba": false,
+  "modelos": [
+    {"nombre": "PageRank α=0.85", "algoritmo": "pagerank", "parametros": {"alpha": 0.85}},
+    {"nombre": "Armónica no dirigida", "algoritmo": "armonica", "parametros": {"orientacion": "no_dirigido"}},
+    {"nombre": "Fusión RRF k=60", "algoritmo": "rrf", "parametros": {"k": 60}},
+    {"nombre": "node2vec local64", "algoritmo": "node2vec", "parametros": {"perfil": "local64"}}
+  ]
+}

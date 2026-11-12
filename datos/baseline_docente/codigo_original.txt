@@ -1,0 +1,88 @@
+def Construye_Grafo():
+  nombre_archivo= "NAP.xls"
+  libro = xlrd.open_workbook(directorio + nombre_archivo)
+  hoja = libro.sheet_by_index(0)
+  GrafoFrec = nx.Graph()
+  GrafoTiempo = nx.Graph()
+  GrafoAsoc = nx.Graph()
+  num_filas = hoja.nrows
+  estimulo = ""
+  lema = ""
+  frecuencia = 0
+  tiempo = 0
+  asociado = 0
+  for fila in range(0, num_filas-1):
+    celda = hoja.cell(fila,0)
+    cadena = celda.value
+    if cadena == "--PALABRAS--":
+      continue
+    elif cadena == "======":
+      estimulo = hoja.cell(fila+1,4).value
+    elif cadena == "" or cadena == "=":
+      continue
+    elif hoja.cell(fila,2).value == "":
+      continue
+    else:
+      frecuencia = hoja.cell(fila,1).value
+      tiempo = hoja.cell(fila,2).value
+      asociado = hoja.cell(fila,3).value
+      palabra = hoja.cell(fila,4).value
+      estimulo = estimulo.strip()
+      lema = str(palabra)
+      lema = lema.strip()
+      GrafoFrec.add_edge(estimulo, lema, weight=1/float(frecuencia))
+      GrafoTiempo.add_edge(estimulo, lema, weight=float(tiempo))
+      GrafoAsoc.add_edge(estimulo, lema, weight=100-float(asociado))
+  return GrafoFrec, GrafoTiempo, GrafoAsoc
+
+
+
+def limpia_lematiza(cadena):
+  limpiado = ""
+  palabras_funcionales = nltk.corpus.stopwords.words('spanish')
+  for c in string.punctuation:
+    cadena = cadena.replace(c, "")
+  cadena = cadena.strip()
+  for palabra in cadena.split():
+    if palabra not in palabras_funcionales:
+      doc = nlp(palabra)
+      limpiado += doc[0].lemma_ + " "
+  return limpiado
+
+def conceptos(lista,subconjunto):
+  datos = []
+  if len(lista) <= 100:
+    tope = len(lista)
+  else:
+    tope = 100
+  for x in range(0,tope):
+    if str(lista[x][0]) not in subconjunto and float(lista[x][1])>0:
+      datos.append(str(lista[x][0]))
+  return datos
+
+def reducir_grafo(subconjunto,grafo_original):
+  grafo_reducido = nx.Graph()
+  nuevos_nodos = []
+  nuevos_nodos.extend(subconjunto)
+  for nodo in subconjunto:
+    vecinos = grafo_original[nodo]
+    for vecino in vecinos:
+      nuevos_nodos.append(vecino)
+  grafo_reducido = grafo_original.subgraph(nuevos_nodos)
+  return grafo_reducido
+
+def diccionario_cc(grafo,definicion):
+  texto = limpia_lematiza(definicion)
+  texto = texto.lower()
+  tokens = texto.split(" ")
+  subconjunto_lemas = []
+  for token in tokens:
+    if token in grafo.nodes() and token!= "":
+      subconjunto_lemas.append(token)
+  if len(subconjunto_lemas) > 0:
+    grafo_reducido = reducir_grafo(subconjunto_lemas,grafo)
+    resultado = nx.closeness_centrality(grafo_reducido,distance="weight")
+    encontrado = sorted(resultado.items(), key=lambda x: x[1], reverse=True)[0:99]
+    return conceptos(encontrado,subconjunto_lemas)
+  else:
+    return []
